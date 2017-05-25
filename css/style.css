@@ -36,6 +36,7 @@ p {
 
 #showcase .showcase-right {
     margin-top: 90px;
+    margin-bottom: 40px;
 }
 
 #testimonial {
@@ -68,6 +69,8 @@ p {
 
 #contact {
     background: url(../img/image3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     padding: 40px;
     color: #fff;
     border-top: #333 7px solid;

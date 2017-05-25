@@ -27,7 +27,8 @@ p {
   margin-left: 60px; }
 
 #showcase .showcase-right {
-  margin-top: 90px; }
+  margin-top: 90px;
+  margin-bottom: 40px; }
 
 #testimonial {
   background: #f1f1f1;
@@ -52,6 +53,8 @@ p {
 
 #contact {
   background: url(../img/image3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 40px;
   color: #fff;
   border-top: #333 7px solid;
